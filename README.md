@@ -3,4 +3,5 @@
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
 ## Versions
-- Unity 2017.2.0f3
+- Unity 2017.4.15
+- SteamVR v1.2.2
