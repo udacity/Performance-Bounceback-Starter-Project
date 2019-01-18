@@ -34,4 +34,4 @@ sysinfo.txt
 *.unitypackage
 
 # Add required DLL files to prevent errors. 
-!Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json
+!Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll
